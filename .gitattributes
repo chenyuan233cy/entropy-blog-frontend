@@ -1,0 +1,4 @@
+# 推送前自动脱敏（本地文件不变）
+.env filter=sanitize
+.env.* filter=sanitize
+e2e/**/*.spec.ts filter=sanitize
