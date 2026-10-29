@@ -27,3 +27,6 @@ tsconfig.tsbuildinfo
 .DS_Store
 Thumbs.db
 *.log
+
+# 废弃后台代码（仅本地保留）
+.removed-studio/
